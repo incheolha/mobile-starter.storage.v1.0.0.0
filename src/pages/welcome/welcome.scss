@@ -1,0 +1,16 @@
+page-welcome {
+  .header {
+    p {
+        color: #8a949d;
+        float: right;
+        padding: 1rem;
+        margin: 0;
+    }
+}
+  .welcome {
+    background: url("../assets/imgs/university1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+}
